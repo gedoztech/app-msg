@@ -1,2 +1,1 @@
-# app-msg
-Aplicativo para Compartilhamento de Mensagens entre Usuários em Tempo Real
+# Aplicativo para Compartilhamento de Mensagens entre Usuários em Tempo Real
